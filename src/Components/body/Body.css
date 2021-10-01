@@ -1,0 +1,24 @@
+.cardImg{
+height:250px;
+width:auto;
+border:1px solid #FFB344;
+box-sizing: border-box;
+
+}
+.cardHgt{
+    height:400px;
+}
+.cardFooter{
+
+}
+.cardFooter:hover{
+    background-color: #B8DFD8;
+}
+
+.ModalImg{
+    height:300px;
+    width:auto;
+    border:1px solid #FFB344;
+    box-sizing: border-box;
+    
+    }

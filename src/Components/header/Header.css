@@ -1,0 +1,41 @@
+.Navigation{
+    margin-bottom: 20px;
+}
+
+.Brand{
+    margin-top: -15px;
+    font-size: 15px;
+    color:#345B63;
+}
+
+.link{
+    text-decoration: none;
+    color:#B97A95;
+    margin-top: -20px;
+    font-size: 25px;
+    margin-right: 10px;
+
+    }
+    .link:hover{
+        color:blue;
+        text-decoration: none;
+    }
+    .active{
+        text-shadow: 1px 1px gray;
+        color: wheat;
+    }
+
+    .my-style{
+        font-family: 'Pacifico', cursive;
+        margin-left:20px;
+        font-weight: bold;
+        font-size: 1.5rem;
+        letter-spacing: 2px;
+        text-align: center;
+       
+    }
+    .dItem{
+font-size: 1.2rem;
+margin-top: -10px;
+text-decoration: none;
+    }
