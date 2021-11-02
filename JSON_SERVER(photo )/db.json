@@ -1,0 +1,259 @@
+{
+  "dishes": [
+    {
+      "id": 1,
+      "title": "buttermilk pancakes",
+      "category": "breakfast",
+      "price": 15.99,
+      "img": "images/item-1.jpeg",
+      "desc": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed "
+    },
+    {
+      "id": 2,
+      "title": "diner double",
+      "category": "lunch",
+      "price": 13.99,
+      "img": "images/item-2.jpeg",
+      "desc": "vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats "
+    },
+    {
+      "id": 3,
+      "title": "godzilla milkshake",
+      "category": "shakes",
+      "price": 6.99,
+      "img": "images/item-3.jpeg",
+      "desc": "ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral."
+    },
+    {
+      "id": 4,
+      "title": "country delight",
+      "category": "breakfast",
+      "price": 20.99,
+      "img": "images/item-4.jpeg",
+      "desc": "Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, "
+    },
+    {
+      "id": 5,
+      "title": "egg attack",
+      "category": "lunch",
+      "price": 22.99,
+      "img": "images/item-5.jpeg",
+      "desc": "franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up "
+    },
+    {
+      "id": 6,
+      "title": "oreo dream",
+      "category": "shakes",
+      "price": 18.99,
+      "img": "images/item-6.jpeg",
+      "desc": "Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday"
+    },
+    {
+      "id": 7,
+      "title": "bacon overflow",
+      "category": "breakfast",
+      "price": 8.99,
+      "img": "images/item-7.jpeg",
+      "desc": "carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird "
+    },
+    {
+      "id": 8,
+      "title": "american classic",
+      "category": "lunch",
+      "price": 12.99,
+      "img": "images/item-8.jpeg",
+      "desc": "on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  "
+    },
+    {
+      "id": 9,
+      "title": "quarantine buddy",
+      "category": "shakes",
+      "price": 16.99,
+      "img": "images/item-9.jpeg",
+      "desc": "skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing."
+    }
+  ],
+  "comments": [
+    {
+      "dishId": 0,
+      "id": 0,
+      "rating": 5,
+      "comment": "Imagine all the eatables, living in conFusion!",
+      "author": "Shanto",
+      "date": "2018-10-16T17:57:28.556094Z"
+    },
+    {
+      "dishId": 0,
+      "id": 1,
+      "rating": 4,
+      "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+      "author": "Karim",
+      "date": "2017-09-05T17:57:28.556094Z"
+    },
+    {
+      "dishId": 0,
+      "id": 2,
+      "rating": 3,
+      "comment": "Eat it, just eat it!",
+      "author": "Moinul",
+      "date": "2019-02-13T17:57:28.556094Z"
+    },
+    {
+      "dishId": 0,
+      "id": 3,
+      "rating": 4,
+      "comment": "Ultimate, Reaching for the stars!",
+      "author": "Rahat",
+      "date": "2017-12-02T17:57:28.556094Z"
+    },
+    {
+      "dishId": 0,
+      "id": 4,
+      "rating": 2,
+      "comment": "It's your birthday, we're gonna party!",
+      "author": "Rony",
+      "date": "2019-12-02T17:57:28.556094Z"
+    },
+    {
+      "dishId": 1,
+      "id": 5,
+      "rating": 5,
+      "comment": "Imagine all the eatables, living in conFusion!",
+      "date": "2018-10-16T17:57:28.556094Z"
+    },
+    {
+      "dishId": 1,
+      "     id": 6,
+      " rating": 4,
+      "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+      " author": "Karim",
+      "   date": "2017-09-05T17:57:28.556094Z"
+    },
+    {
+      "dishId": 1,
+      "     id": 7,
+      " rating": 3,
+      "comment": "Eat it, just eat it!",
+      " author": "Moinul",
+      "   date": "2019-02-13T17:57:28.556094Z"
+    },
+    {
+      "dishId": 1,
+      "     id": 8,
+      " rating": 4,
+      "comment": "Ultimate, Reaching for the stars!",
+      " author": "Rahat",
+      "   date": "2017-12-02T17:57:28.556094Z"
+    },
+    {
+      "dishId": 1,
+      "     id": 9,
+      " rating": 2,
+      "comment": "It's your birthday, we're gonna party!",
+      " author": "Rony",
+      "   date": "2019-12-02T17:57:28.556094Z"
+    },
+    {
+      "dishId": 2,
+      "     id": 10,
+      " rating": 5,
+      "comment": "Imagine all the eatables, living in conFusion!",
+      " author": "Shanto",
+      "   date": "2018-10-16T17:57:28.556094Z"
+    },
+    {
+      "dishId": 2,
+      "     id": 11,
+      " rating": 4,
+      "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+      " author": "Karim",
+      "   date": "2017-09-05T17:57:28.556094Z"
+    },
+    {
+      "dishId": 2,
+      "     id": 12,
+      " rating": 3,
+      "comment": "Eat it, just eat it!",
+      " author": "Moinul",
+      "   date": "2019-02-13T17:57:28.556094Z"
+    },
+    {
+      "dishId": 2,
+      "id": 13,
+      " rating": 4,
+      "comment": "Ultimate, Reaching for the stars!",
+      "author": "Rahat",
+      "date": "2017-12-02T17:57:28.556094Z"
+    },
+    {
+      "dishId": 2,
+      "id": 14,
+      " rating": 2,
+      "comment": "It's your birthday, we're gonna party!",
+      " author": "Rony",
+      "   date": "2019-12-02T17:57:28.556094Z"
+    },
+    {
+      "dishId": 3,
+      "id": 15,
+      " rating": 5,
+      "comment": "Imagine all the eatables, living in conFusion!",
+      " author": "Shanto",
+      "   date": "2018-10-16T17:57:28.556094Z"
+    },
+    {
+      "dishId": 3,
+      "id": 16,
+      "rating": 4,
+      "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+      "author": "Karim",
+      "date": "2017-09-05T17:57:28.556094Z"
+    },
+    {
+      "dishId": 3,
+      "id": 17,
+      "rating": 3,
+      "comment": "Eat it, just eat it!",
+      "author": "Moinul",
+      "date": "2019-02-13T17:57:28.556094Z"
+    },
+    {
+      "dishId": 3,
+      "id": 18,
+      " rating": 4,
+      "comment": "Ultimate, Reaching for the stars!",
+      " author": "Rahat",
+      "   date": "2017-12-02T17:57:28.556094Z"
+    },
+    {
+      "dishId": 3,
+      "id": 19,
+      " rating": 2,
+      "comment": "It's your birthday, we're gonna party!",
+      " author": "Rony",
+      "   date": "2019-12-02T17:57:28.556094Z"
+    },
+    {
+      "dishId": 9,
+      "author": [
+        "Forman Hossain"
+      ],
+      "comment": [
+        "great!"
+      ],
+      "date": "2021-11-02T05:44:35.770Z",
+      "id": 20
+    },
+    {
+      "dishId": 3,
+      "author": [
+        "Forman Hossain"
+      ],
+      "comment": [
+        "that's fine!"
+      ],
+      "date": "2021-11-02T06:01:18.231Z",
+      "id": 21
+    }
+  ]
+}
