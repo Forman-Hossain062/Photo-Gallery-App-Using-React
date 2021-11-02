@@ -8,9 +8,9 @@ box-sizing: border-box;
 .cardHgt{
     height:400px;
 }
-.cardFooter{
+/* .cardFooter{
 
-}
+} */
 .cardFooter:hover{
     background-color: #B8DFD8;
 }
